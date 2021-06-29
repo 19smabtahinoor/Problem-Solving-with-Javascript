@@ -8,4 +8,11 @@
     console.log(`Fruits are ${fruits}`)  //Fruits are 🍎,🍊,🌶,🥭
 
 
-//Problem 2 : 
+
+//Problem 2 : Convert any value to boolean
+
+    // Using !!(two not sign) in front of anu value   
+    console.log(!!"Kabid"); //true
+    console.log(!!1) //true
+    console.log(!!0) //false
+    console.log(!!undefined) //false
